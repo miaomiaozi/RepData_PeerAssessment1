@@ -1,5 +1,4 @@
----
----
+
 ## Reproducible Research: Peer Assessment 1
 
 Created by Miaomiaozi 12/03/2017
